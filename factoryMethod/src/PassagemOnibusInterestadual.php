@@ -11,7 +11,6 @@ class PassagemOnibusInterestadual extends Passagem
 
     public function exibeDetalhes()
     {
-
         $detalhe = "Passagem de ônibus interestadual</br>";
         $detalhe .= "ORIGEM: " . $this->getOrigem() . "</br>";
         $detalhe .= "DESTINO: " . $this->getDestino() . "</br>";

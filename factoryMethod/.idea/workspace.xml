@@ -14,29 +14,11 @@
       <file leaf-file-name="usage.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/usage.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+            <state relative-caret-position="355">
+              <caret line="26" column="45" selection-start-line="26" selection-start-column="45" selection-end-line="26" selection-end-column="45" />
               <folding>
                 <element signature="e#57#95#0#PHP" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PassagemOnibusInterestadual.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/PassagemOnibusInterestadual.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="10" lean-forward="true" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="EmpresaOnibusInterEstadual.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/EmpresaOnibusInterEstadual.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="47" selection-start-line="8" selection-start-column="47" selection-end-line="8" selection-end-column="47" />
             </state>
           </provider>
         </entry>
@@ -50,6 +32,15 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="EmpresaOnibusInterEstadual.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/EmpresaOnibusInterEstadual.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="47" selection-start-line="8" selection-start-column="47" selection-end-line="8" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="EmpresaOnibusUrbano.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/EmpresaOnibusUrbano.php">
           <provider selected="true" editor-type-id="text-editor">
@@ -59,11 +50,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PassagemOnibusUrbano.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/PassagemOnibusUrbano.php">
+      <file leaf-file-name="Passagem.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Passagem.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+            <state relative-caret-position="168">
+              <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PassagemOnibusInterestadual.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/PassagemOnibusInterestadual.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="21" lean-forward="true" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -78,10 +78,10 @@
         <option value="$PROJECT_DIR$/src/EmpresaOnibusInterestadual.php" />
         <option value="$PROJECT_DIR$/src/Passagem.php" />
         <option value="$PROJECT_DIR$/public/usage.php" />
-        <option value="$PROJECT_DIR$/src/PassagemOnibusInterestadual.php" />
         <option value="$PROJECT_DIR$/src/PassagemOnibusUrbano.php" />
         <option value="$PROJECT_DIR$/src/EmpresaOnibusUrbano.php" />
         <option value="$PROJECT_DIR$/src/EmpresaOnibusInterEstadual.php" />
+        <option value="$PROJECT_DIR$/src/PassagemOnibusInterestadual.php" />
       </list>
     </option>
   </component>
@@ -161,12 +161,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1531405689669</updated>
-      <workItem from="1531405691056" duration="2434000" />
+      <workItem from="1531405691056" duration="3362000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2434000" />
+    <option name="totallyTimeSpent" value="3362000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="32" width="1040" height="744" extended-state="6" />
@@ -207,13 +207,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Passagem.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="38" column="40" lean-forward="true" selection-start-line="38" selection-start-column="40" selection-end-line="38" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/PassagemOnibusUrbano.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
@@ -221,20 +214,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/usage.php">
+    <entry file="file://$PROJECT_DIR$/src/Passagem.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
-          <folding>
-            <element signature="e#57#95#0#PHP" expanded="true" />
-          </folding>
+        <state relative-caret-position="168">
+          <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/PassagemOnibusInterestadual.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="10" lean-forward="true" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
+        <state relative-caret-position="136">
+          <caret line="8" column="21" lean-forward="true" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
         </state>
       </provider>
     </entry>
@@ -249,6 +239,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="33" lean-forward="true" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/usage.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="355">
+          <caret line="26" column="45" selection-start-line="26" selection-start-column="45" selection-end-line="26" selection-end-column="45" />
+          <folding>
+            <element signature="e#57#95#0#PHP" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
