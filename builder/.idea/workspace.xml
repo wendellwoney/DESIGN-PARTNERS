@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5a0126d6-44c6-4f08-b9e3-1cc4fcac5f83" name="Default" comment="" />
+    <list default="true" id="1817a040-e76b-4bc7-863a-e2deeb897767" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,70 +15,82 @@
         <entry file="file://$PROJECT_DIR$/composer.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="51">
-              <caret line="3" column="22" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="22" />
+              <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Empresa.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Empresa.php">
+      <file leaf-file-name="Sanduiche.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Sanduiche.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+            <state relative-caret-position="34">
+              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="EmpresaOnibus.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/EmpresaOnibus.php">
+      <file leaf-file-name="Hamburger.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Hamburger.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="42" selection-start-line="12" selection-start-column="42" selection-end-line="12" selection-end-column="42" />
+            <state relative-caret-position="68">
+              <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PassagemOnibusInterestadual.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/PassagemOnibusInterestadual.php">
+      <file leaf-file-name="FishBurger.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/FishBurger.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="460">
-              <caret line="47" column="41" selection-start-line="47" selection-start-column="29" selection-end-line="47" selection-end-column="41" />
+            <state relative-caret-position="68">
+              <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PassagemOnibusUrbano.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/PassagemOnibusUrbano.php">
+      <file leaf-file-name="Cozinha.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Cozinha.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="799">
-              <caret line="47" column="44" selection-start-line="47" selection-start-column="44" selection-end-line="47" selection-end-column="44" />
+            <state relative-caret-position="119">
+              <caret line="7" column="49" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="49" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ConcretePassagemOnibusInterEstadual.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ConcretePassagemOnibusInterEstadual.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="20" column="18" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ConcretePassagemOnibusUrbano.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ConcretePassagemOnibusUrbano.php">
+      <file leaf-file-name="SanduicheBuilder.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/SanduicheBuilder.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="136">
-              <caret line="13" column="20" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
+              <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="usage.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="HamburgerBuilder.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/HamburgerBuilder.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="409">
+              <caret line="36" column="43" selection-start-line="36" selection-start-column="43" selection-end-line="36" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="usage.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/public/usage.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="44" lean-forward="true" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
+            <state relative-caret-position="238">
+              <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+              <folding>
+                <element signature="e#57#77#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FischBurgerBuilder.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/FischBurgerBuilder.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="36" column="25" selection-start-line="36" selection-start-column="25" selection-end-line="36" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -89,17 +101,15 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/composer.json" />
-        <option value="$PROJECT_DIR$/src/EmpresaOnibusInterEstadual.php" />
-        <option value="$PROJECT_DIR$/src/EmpresaOnibusUrbano.php" />
-        <option value="$PROJECT_DIR$/src/Passagem.php" />
-        <option value="$PROJECT_DIR$/src/PassagemOnibusInterestadual.php" />
-        <option value="$PROJECT_DIR$/src/PassagemOnibusUrbano.php" />
-        <option value="$PROJECT_DIR$/src/ConcretePassagemOnibusEstadual.php" />
-        <option value="$PROJECT_DIR$/src/Empresa.php" />
-        <option value="$PROJECT_DIR$/src/EmpresaOnibus.php" />
+        <option value="$PROJECT_DIR$/src/Hamburger.php" />
+        <option value="$PROJECT_DIR$/src/FishBurger.php" />
+        <option value="$PROJECT_DIR$/src/SanduicheBuilder.php" />
+        <option value="$PROJECT_DIR$/src/director.php" />
+        <option value="$PROJECT_DIR$/src/Cozinha.php" />
+        <option value="$PROJECT_DIR$/src/HamburgerBuilder.php" />
+        <option value="$PROJECT_DIR$/src/FischBurgerBuilder.php" />
+        <option value="$PROJECT_DIR$/src/Sanduiche.php" />
         <option value="$PROJECT_DIR$/public/usage.php" />
-        <option value="$PROJECT_DIR$/src/ConcretePassagemOnibusUrbano.php" />
-        <option value="$PROJECT_DIR$/src/ConcretePassagemOnibusInterEstadual.php" />
       </list>
     </option>
   </component>
@@ -127,17 +137,17 @@
         <subPane>
           <expand>
             <path>
-              <item name="abstractFactory" type="b2602c69:ProjectViewProjectNode" />
-              <item name="abstractFactory" type="462c0819:PsiDirectoryNode" />
+              <item name="builder" type="b2602c69:ProjectViewProjectNode" />
+              <item name="builder" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="abstractFactory" type="b2602c69:ProjectViewProjectNode" />
-              <item name="abstractFactory" type="462c0819:PsiDirectoryNode" />
+              <item name="builder" type="b2602c69:ProjectViewProjectNode" />
+              <item name="builder" type="462c0819:PsiDirectoryNode" />
               <item name="public" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="abstractFactory" type="b2602c69:ProjectViewProjectNode" />
-              <item name="abstractFactory" type="462c0819:PsiDirectoryNode" />
+              <item name="builder" type="b2602c69:ProjectViewProjectNode" />
+              <item name="builder" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -154,10 +164,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\wende\Documents\GitHub\DESIGN-PARTNERS\abstractFactory\src" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\wende\Documents\GitHub\DESIGN-PARTNERS\abstractFactory\src" />
+      <recent name="C:\Users\wende\Documents\GitHub\DESIGN-PARTNERS\builder\src" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -177,17 +184,17 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="5a0126d6-44c6-4f08-b9e3-1cc4fcac5f83" name="Default" comment="" />
-      <created>1531409061203</created>
+      <changelist id="1817a040-e76b-4bc7-863a-e2deeb897767" name="Default" comment="" />
+      <created>1531414894867</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1531409061203</updated>
-      <workItem from="1531409062703" duration="2581000" />
+      <updated>1531414894867</updated>
+      <workItem from="1531414896374" duration="2315000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2581000" />
+    <option name="totallyTimeSpent" value="2315000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="32" width="1040" height="744" extended-state="6" />
@@ -202,7 +209,7 @@
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.0" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32913387" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" side_tool="true" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -224,77 +231,66 @@
     <entry file="file://$PROJECT_DIR$/composer.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
-          <caret line="3" column="22" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="22" />
+          <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/EmpresaOnibusInterEstadual.php">
+    <entry file="file://$PROJECT_DIR$/src/SanduicheBuilder.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" selection-start-line="6" selection-end-line="9" selection-end-column="5" />
+        <state relative-caret-position="136">
+          <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/EmpresaOnibusUrbano.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" selection-start-line="6" selection-end-line="9" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Passagem.php">
+    <entry file="file://$PROJECT_DIR$/src/Sanduiche.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
-          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/PassagemOnibusInterestadual.php">
+    <entry file="file://$PROJECT_DIR$/src/Hamburger.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="460">
-          <caret line="47" column="41" selection-start-line="47" selection-start-column="29" selection-end-line="47" selection-end-column="41" />
+        <state relative-caret-position="68">
+          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/PassagemOnibusUrbano.php">
+    <entry file="file://$PROJECT_DIR$/src/FishBurger.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="799">
-          <caret line="47" column="44" selection-start-line="47" selection-start-column="44" selection-end-line="47" selection-end-column="44" />
+        <state relative-caret-position="68">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ConcretePassagemOnibusInterEstadual.php">
+    <entry file="file://$PROJECT_DIR$/src/HamburgerBuilder.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="20" column="18" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
+        <state relative-caret-position="409">
+          <caret line="36" column="43" selection-start-line="36" selection-start-column="43" selection-end-line="36" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Cozinha.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="49" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FischBurgerBuilder.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="36" column="25" selection-start-line="36" selection-start-column="25" selection-end-line="36" selection-end-column="25" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/public/usage.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="44" lean-forward="true" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/EmpresaOnibus.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="42" selection-start-line="12" selection-start-column="42" selection-end-line="12" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ConcretePassagemOnibusUrbano.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="13" column="20" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Empresa.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        <state relative-caret-position="238">
+          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+          <folding>
+            <element signature="e#57#77#0#PHP" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
