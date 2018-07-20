@@ -1,0 +1,7 @@
+{
+  "autoload":{
+    "ps4-4":{
+      "Decorator\\": "src/"
+    }
+  }
+}
