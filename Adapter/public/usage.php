@@ -5,6 +5,12 @@ use Adapter\AdapdatorEuaBrasil;
 use Adapter\PlugAmericano;
 use Adapter\AdapdatorBrasilEua;
 use Adapter\PlugBrasileiro;
+use Adapter\TomadaBrasileira;
+
+//Erro na clamada
+//$tomadaBrasileira = new TomadaBrasileira();
+//echo $tomadaBrasileira->conecta(new PlugAmericano());
+
 
 $adaptadorEauBrasil = new AdapdatorEuaBrasil();
 print $adaptadorEauBrasil->conecta(new PlugAmericano());
