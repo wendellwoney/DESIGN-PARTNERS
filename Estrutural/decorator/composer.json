@@ -1,6 +1,6 @@
 {
   "autoload":{
-    "ps4-4":{
+    "psr-4":{
       "Decorator\\": "src/"
     }
   }
