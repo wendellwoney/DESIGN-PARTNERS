@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2bd45169-0655-4b21-a477-932e9b29e08e" name="Default" comment="" />
+    <list default="true" id="172c4de3-511f-4a5d-b199-abed4b15a12e" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,56 +11,56 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="composer.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/composer.json">
+      <file leaf-file-name="FiguraFactory.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/FiguraFactory.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+            <state relative-caret-position="156">
+              <caret line="19" column="27" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="46" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SubSistemaUm.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/SubSistemaUm.php">
+      <file leaf-file-name="Linha.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Linha.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+            <state relative-caret-position="153">
+              <caret line="9" column="50" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="50" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Facede.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Facede.php">
+      <file leaf-file-name="Oval.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Oval.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="292">
-              <caret line="25" column="43" selection-start-line="25" selection-start-column="43" selection-end-line="25" selection-end-column="43" />
+            <state relative-caret-position="258">
+              <caret line="25" column="63" selection-start-line="25" selection-start-column="63" selection-end-line="25" selection-end-column="63" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="usage.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="usage.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/public/usage.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+            <state relative-caret-position="170">
+              <caret line="10" column="68" selection-start-line="10" selection-start-column="68" selection-end-line="10" selection-end-column="68" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SubSistemaDois.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/SubSistemaDois.php">
+      <file leaf-file-name="Figura.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Figura.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="51" selection-start-line="8" selection-start-column="51" selection-end-line="8" selection-end-column="51" />
+            <state relative-caret-position="51">
+              <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SubSistemaTres.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/SubSistemaTres.php">
+      <file leaf-file-name="autoload_psr4.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vendor/composer/autoload_psr4.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="32" lean-forward="true" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
+            <state relative-caret-position="136">
+              <caret line="8" column="14" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -71,11 +71,13 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/composer.json" />
-        <option value="$PROJECT_DIR$/src/Facede.php" />
+        <option value="$PROJECT_DIR$/public/figura.php" />
+        <option value="$PROJECT_DIR$/src/linha.php" />
+        <option value="$PROJECT_DIR$/src/Figura.php" />
+        <option value="$PROJECT_DIR$/src/Linha.php" />
+        <option value="$PROJECT_DIR$/src/Oval.php" />
+        <option value="$PROJECT_DIR$/src/FiguraFactory.php" />
         <option value="$PROJECT_DIR$/public/usage.php" />
-        <option value="$PROJECT_DIR$/src/SubSistemaUm.php" />
-        <option value="$PROJECT_DIR$/src/SubSistemaDois.php" />
-        <option value="$PROJECT_DIR$/src/SubSistemaTres.php" />
       </list>
     </option>
   </component>
@@ -88,7 +90,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-12" />
     <option name="y" value="48" />
     <option name="width" value="1944" />
@@ -104,12 +106,12 @@
         <subPane>
           <expand>
             <path>
-              <item name="Facade" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Facade" type="462c0819:PsiDirectoryNode" />
+              <item name="flyweight" type="b2602c69:ProjectViewProjectNode" />
+              <item name="flyweight" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Facade" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Facade" type="462c0819:PsiDirectoryNode" />
+              <item name="flyweight" type="b2602c69:ProjectViewProjectNode" />
+              <item name="flyweight" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -124,8 +126,8 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\wende\Documents\GitHub\DESIGN-PARTNERS\Estrutural\Facade\src" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\wende\Documents\GitHub\DESIGN-PARTNERS\Estrutural\flyweight\src" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -145,22 +147,23 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="2bd45169-0655-4b21-a477-932e9b29e08e" name="Default" comment="" />
-      <created>1532362590588</created>
+      <changelist id="172c4de3-511f-4a5d-b199-abed4b15a12e" name="Default" comment="" />
+      <created>1532363545613</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1532362590588</updated>
-      <workItem from="1532362591972" duration="952000" />
+      <updated>1532363545613</updated>
+      <workItem from="1532363546931" duration="3516000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="952000" />
+    <option name="totallyTimeSpent" value="3516000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="33" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24980484" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24980484" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
@@ -169,7 +172,7 @@
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32993197" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32993197" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" side_tool="true" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -191,42 +194,49 @@
     <entry file="file://$PROJECT_DIR$/composer.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
-          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+          <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/composer/autoload_psr4.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="14" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Figura.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Oval.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="25" column="63" selection-start-line="25" selection-start-column="63" selection-end-line="25" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Linha.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="50" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FiguraFactory.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="19" column="27" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="46" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/public/usage.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/SubSistemaUm.php">
-      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
-          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Facede.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="292">
-          <caret line="25" column="43" selection-start-line="25" selection-start-column="43" selection-end-line="25" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/SubSistemaDois.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="51" selection-start-line="8" selection-start-column="51" selection-end-line="8" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/SubSistemaTres.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="32" lean-forward="true" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
+          <caret line="10" column="68" selection-start-line="10" selection-start-column="68" selection-end-line="10" selection-end-column="68" />
         </state>
       </provider>
     </entry>
